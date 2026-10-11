@@ -1,4 +1,4 @@
-# Từ điển cho trò chơi Đổi Chữ
+# Từ điển cho trò chơi Letter Swap
 
 Hai file JSON dùng để phán quyết từ đúng/sai trong trò chơi.
 
